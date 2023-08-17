@@ -30,3 +30,4 @@ steps:
     repository: 'sirishakayitha / azuredevops'
     command: 'buildAndPush'
     Dockerfile: '**/AzureDockerfile'
+
